@@ -1,0 +1,9 @@
+logging:
+  level:
+    ROOT: INFO
+spring:
+  application:
+    name: n26-challenge
+  jackson.serialization.write-dates-as-timestamps: false
+statisticService.windowInMs: 60000
+statisticService.removeExpiredStatisticsInMs: 10000
