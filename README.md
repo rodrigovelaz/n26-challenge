@@ -40,6 +40,7 @@ Returns: { "sum": 1000, "avg": 100, "max": 200, "min": 50, "count": 10 }
 
 Where:
 
+
 ● sum is a double specifying the total sum of transaction value in the last 60 seconds
 
 ● avg is a double specifying the average amount of transaction value in the last 60 seconds
